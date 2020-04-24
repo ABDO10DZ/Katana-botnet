@@ -1,5 +1,5 @@
-# DemonBOT
-DemonBOT is an http banking botnet with some new surprises
+# HTTP Botnet
+http banking botnet with some new surprises
 
 <br><b> Coming Soon ... </b></br>
 
