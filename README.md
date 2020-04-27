@@ -1,4 +1,4 @@
-# HTTP Botnet
+# Katana HTTP Botnet
 http banking botnet with some new surprises
 
 <br><b> Coming Soon ... </b></br>
