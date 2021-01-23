@@ -1,7 +1,7 @@
 # KATANA HTTP BANKING BOTNET #
 <h2> Author : ABDO10_DZ </h2>
 <h3> Description [katana] : </h3> katana is an http banking botnet not same of old katana's botnets that same of mirai (ddos,iot exploit)
-this quet different that don't work to access iot devices and don't do ddos attacks it only work by modules below:
+this quite different that don't work to access iot devices and don't do ddos attacks it only work by modules below:
 
     [katana]
 	|__Screenshot
