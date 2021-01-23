@@ -3,7 +3,7 @@
 <h3> Description [katana] : </h3> katana is an http banking botnet not same of old katana's botnets that same of mirai (ddos,iot exploit)
 this quet different that don't work to access iot devices and don't do ddos attacks it only work by modules below:
 
-     [katana]
+    [katana]
 	|__Screenshot
 	|__Download & Download with execution
 	|__turnoff
