@@ -12,11 +12,10 @@ this quite different that don't work to access iot devices and don't do ddos att
 	|__[Modules]
 	       |__LoginGrapper & [Credit Card Grapper] & History (supported Browsers: Firefox Based,Chrome Based)
 	       |__RansomWare (AES)
+	       |__HVNC
+	       |__Clipper (Crypto Wallets)
 	       |__AntiVM (Vmware , VirtualBox)
 	       |__AntiAnalyse (Wireshark & -like tools)
-	       |__Clipper (Crypto Wallets)
-	       |__USB Spread
-	       |__Another Modules are coming: [Ddos,Stealer,IOT Spread to Max HTTP Botnet Spread]
 
 <h3> Contact :</h3> abdo10_dz@pm.me , https://t.me/abdo10_dz 
 <h3> Donate (btc):</h3> 18NbGvb7582Gkddjj7pHETMmievCEEwx7R
@@ -28,13 +27,12 @@ this quite different that don't work to access iot devices and don't do ddos att
 	[Modules] :
 	Grapper : 300$
 	RansomWare : 200$
-	AntiVM : 30$
-	AntiAnalyse : 50$
-	Clipper : 50$
-	USB Spread : 30$
-
-	All in One : 800$ Free 60$ for ur Self 
+	Clipper : 100$
+	HVNC : 300$
 	rebuild : 20$
+	
+	All in One : 1100$
+
 <h3> Our Working Plans :</h3> we give u yearly , 6Month , 3 Month Subscribtion in our Katana Botnet 
 <h3> Price of Plans :</h3> 1 Year = 110$ , 6 Month = 60$ ,3 Month = 30$
 
