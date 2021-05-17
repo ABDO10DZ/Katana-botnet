@@ -18,7 +18,7 @@ this quite different that don't work to access iot devices and don't do ddos att
 	       |__AntiAnalyse (Wireshark & -like tools)
 
 <h3> Contact :</h3> abdo10_dz@pm.me , https://t.me/abdo10_dz 
-<h3> Donate (btc):</h3> 1Kxc4QLjFiaHKuF64pYZ36881hrqtaiUK8
+<h3> Donate (crypto only) : contact us for that
 <h3> Greetz :</h3> Mathio.DZ -> (The GodFather) 
 
 <h3> For buying this product </h3>
