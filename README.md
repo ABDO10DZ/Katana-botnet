@@ -1,7 +1,8 @@
 # Katana HTTP BOTNET
 <h3> Author : ABDO10_DZ </h3>
 <h3> Description [katana] : http ( Banking , Ransomware , Hvnc , Clipper , AntiScan , AntiVM ,.. MuteX HTTP Botnet )</h3>
-
+<h5> Interested ? : [our Telegram Channel] https://t.me/KatanaBotnet </h5>
+<h5> Notice : if u get this from anybody except me means You have been scammed . So becareful </h5> 
 <h3> Features :</h3> 
 
 Connection:	C&C (p2p Secured Connection)
